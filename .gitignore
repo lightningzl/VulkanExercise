@@ -1,0 +1,9 @@
+
+# Binary Files
+/bin
+
+# temp Files
+/temp
+
+# vs Files
+Projcets/*/.vs/*
